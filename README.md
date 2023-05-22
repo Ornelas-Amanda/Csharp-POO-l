@@ -1,6 +1,6 @@
 # Csharp-POO-l
 
-São dois desafios e uma pasta do codigo acompanhando em aula
+São dois desafios e uma pasta do codigo acompanhado em aula
 
 # fast food 
  implementação de classes
@@ -9,4 +9,4 @@ São dois desafios e uma pasta do codigo acompanhando em aula
  implementando somente uma classe
  
  
- obs: o codigo acompanhando em aula esta com algumas alterações para diferentes testes que resolvi fazer
+ obs: o codigo acompanhado em aula esta com algumas alterações para diferentes testes que resolvi fazer
